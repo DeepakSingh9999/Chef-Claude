@@ -12,6 +12,16 @@ This project is a fun and interactive **recipe generator** built with **React** 
 
 ---
 
+## 📷 Demo
+
+<img width="1914" height="1077" alt="Image" src="https://github.com/user-attachments/assets/517c13af-0075-47a1-aef8-955b8930581a" />
+
+<img width="893" height="1033" alt="Image" src="https://github.com/user-attachments/assets/642e29a3-749c-4d3a-b311-b00c95605ae3" />
+
+<img width="297" height="1017" alt="Image" src="https://github.com/user-attachments/assets/65d7a517-65e9-421c-b6d2-8b14279f9666" />
+
+---
+
 ## ✨ Features
 - 🎲 Random ingredient generator for unique recipe prompts  
 - 🤖 API integration with Chef Claude for AI-powered recipe creation  
