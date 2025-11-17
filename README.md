@@ -5,7 +5,7 @@ This project is a fun and interactive **recipe generator** built with **React** 
 ---
 
 ## 🚀 How It Works
-1. The app randomly selects a set of ingredients.  
+1. Provide a set of random ingredients.  
 2. These ingredients are sent to the **Chef Claude API**.  
 3. Chef Claude responds with a creative recipe suggestion that uses those ingredients.  
 4. The recipe (title, steps, and description) is displayed in the React frontend.
