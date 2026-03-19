@@ -12,6 +12,11 @@ This project is a fun and interactive **recipe generator** built with **React** 
 
 ---
 
+## Live Link
+https://chef-gemini-379n.vercel.app/
+
+---
+
 ## 📷 Demo
 
 <img width="1914" height="1077" alt="Image" src="https://github.com/user-attachments/assets/517c13af-0075-47a1-aef8-955b8930581a" />
